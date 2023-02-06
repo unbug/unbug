@@ -4,14 +4,14 @@
 
 
 # 一分钟读论文｜Micropaper
-Learn a paper in a minute.
+Learn a paper in a minute. 一分钟读懂一篇论文。
 
-一分钟读懂一篇论文。用学术打造你的思维，把论文当成你的精神食粮。
+把论文当成你的精神食粮，让学术重塑你的思维。
 
 
 
-- [Home](https://unbug.github.io/)
-- [RSS Feed](https://unbug.github.io/feed.xml)
+- [Micropaper Home](https://unbug.github.io/)
+- [Micropaper RSS Feed](https://unbug.github.io/feed.xml)
 
 <!--
 **unbug/unbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
