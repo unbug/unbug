@@ -5,7 +5,10 @@
 
 # 一分钟读论文｜Micropaper
 Learn a paper in a minute.
-一分钟读懂一篇论文。
+
+一分钟读懂一篇论文。用学术打造你的思维，把论文当成你的精神食粮。
+
+
 
 - [Home](https://unbug.github.io/)
 - [RSS Feed](https://unbug.github.io/feed.xml)
