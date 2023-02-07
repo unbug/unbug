@@ -4,9 +4,9 @@
 
 
 # 一分钟读论文｜Micropaper
-Learn a paper in a minute. 一分钟读懂一篇论文。
+Learn a paper in a minute. 
 
-把论文当成你的精神食粮，让学术重塑你的思维。
+一分钟读懂一篇论文。把论文当成精神食粮，用学术重塑思维。
 
 
 
